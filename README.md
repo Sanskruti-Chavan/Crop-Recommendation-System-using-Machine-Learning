@@ -1,21 +1,21 @@
-# Crop Recommendation System 🌾🌦️
+# AgriSense Pro 🌾🌦️
 
 ## Overview
 
-The Crop Recommendation System is a Machine Learning-based web application designed to assist farmers and agricultural stakeholders in selecting the most suitable crop for cultivation.
+AgriSense Pro is a Machine Learning-based web application designed to assist farmers and agricultural stakeholders in selecting the most suitable crop for cultivation.
 
 The system analyzes soil nutrient levels and environmental conditions to provide accurate crop recommendations, helping improve productivity and support data-driven farming decisions.
 
 ## Features
 
-- 🌱 Crop recommendation using Machine Learning algorithms
-- 🌦️ Real-time weather data integration
-- 🌡️ Live temperature and humidity analysis
-- 🧪 Soil nutrient evaluation (Nitrogen, Phosphorus, Potassium)
-- 💧 Rainfall and pH-based recommendations
-- 🖥️ Interactive and user-friendly Streamlit interface
-- ⚡ Fast and accurate predictions
-- 📊 Data-driven decision support for agriculture
+🌱 Crop recommendation using Machine Learning algorithms  
+🌦️ Real-time weather data integration  
+🌡️ Live temperature and humidity analysis  
+🧪 Soil nutrient evaluation (Nitrogen, Phosphorus, Potassium)  
+💧 Rainfall and pH-based recommendations  
+🖥️ Interactive and user-friendly Streamlit interface  
+⚡ Fast and accurate predictions  
+📊 Data-driven decision support for agriculture  
 
 ## Technologies Used
 
